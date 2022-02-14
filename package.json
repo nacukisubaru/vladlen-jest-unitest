@@ -1,0 +1,21 @@
+{
+  "name": "vladlen-jest-unitest",
+  "version": "1.0.0",
+  "description": "js, unittest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "js, javascript, jest"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
